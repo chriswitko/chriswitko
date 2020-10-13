@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Chris. I am the creator of ManualTesting.dev. I built this tool to help people like you and me to improve our manual testing process, organise tests, manage cases, control bug reporting and issues. It helped me a lot in my daily work as a software developer. If you have any questions, feel free to reach me via email chris@manualtesting.dev.
+My name is Chris. I am the creator of [ManualTesting.dev](https://manualtesting.dev). I built this tool to help people like you and me to improve our manual testing process, organise tests, manage cases, control bug reporting and issues. It helped me a lot in my daily work as a software developer. If you have any questions, feel free to reach me via email chris@manualtesting.dev.
 
 <!--
 **chriswitko/chriswitko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
