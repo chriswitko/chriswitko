@@ -1,18 +1,12 @@
 ### Hi there, I'm Chris 👋
 
-[![Website](https://img.shields.io/website?label=manualtesting.dev&style=for-the-badge&url=https%3A%2F%2Fmanualtesting.dev)](https://manualtesting.dev)
-
 ## I'm a Husband, Developer, and Green Tea fan!!
 
-- 🔥 I just launched my first app: https://manualtesting.dev
 - ✨ I’m currently learning Spanish 🤣
 
 ### Connect with me:
 
-[<img align="left" alt="manualtesting.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="_vitkov | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-or email: mild-new0v@icloud.com
+or email: chris.witko@me.com
 
 <br />
 
@@ -37,16 +31,15 @@ or email: mild-new0v@icloud.com
 
 ---
 
-### 📕 Latest Blog Posts
+<!-- ### 📕 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I use ManualTesting.dev and Vercel in my daily work as a software developer](https://www.manualtesting.dev/blog/how-i-use-manualtesting-dev-in-my-daily-work-as-a-software-developer)
-- [The Importance of Manual Testing in Today's World of Automation](https://www.manualtesting.dev/blog/the-importance-of-manual-testingin-in-todays-world-of-automation)
+
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://manualtesting.dev/blog)
+<!-- ➡️ [more blog posts...](https://manualtesting.dev/blog) -->
 
 ---
 
-[website]: https://manualtesting.dev
-[twitter]: https://twitter.com/_vitkov
+<!-- [website]: https://manualtesting.dev -->
+<!-- [twitter]: https://twitter.com/_vitkov -->
