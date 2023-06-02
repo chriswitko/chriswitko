@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-or email: chris.witko@me.com
+email: chris.witko@me.com
 
 <br />
 
