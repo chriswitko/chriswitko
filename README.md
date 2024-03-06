@@ -1,8 +1,9 @@
 ### Hi there, I'm Chris 👋
 
-## I'm a Husband, Developer, and Green Tea fan!!
+## I'm a Software Developer and Green Tea fan!
 
 - ✨ I’m currently learning Spanish 🤣
+- Side project -> https://kalorique.com
 
 ### Connect with me:
 
