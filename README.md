@@ -30,16 +30,4 @@ email: chris.witko@me.com
 <br />
 <br />
 
-[![Chris Witko's GitHub stats](https://github-readme-stats.vercel.app/api?username=chriswitko)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-<!-- ### 📕 Latest Blog Posts -->
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<!-- [website]: https://chriswitko.com -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chriswitko)](https://github.com/anuraghazra/github-readme-stats)
