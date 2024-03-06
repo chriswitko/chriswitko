@@ -30,6 +30,8 @@ email: chris.witko@me.com
 <br />
 <br />
 
+[![Chris Witko's GitHub stats](https://github-readme-stats.vercel.app/api?username=chriswitko)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 <!-- ### 📕 Latest Blog Posts -->
@@ -38,9 +40,6 @@ email: chris.witko@me.com
 
 <!-- BLOG-POST-LIST:END -->
 
-<!-- ➡️ [more blog posts...](https://manualtesting.dev/blog) -->
-
 ---
 
-<!-- [website]: https://manualtesting.dev -->
-<!-- [twitter]: https://twitter.com/_vitkov -->
+<!-- [website]: https://chriswitko.com -->
